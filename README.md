@@ -1,5 +1,5 @@
 # FuelIQ - making fuel smarter
-### official submission for HackGT 6, Fall 2019 ###
+### official submission for HackGT 6, Fall 2019 with a team of 4 ###
 Extracting prices of fuel from images of gas stations leveraging Azure, the use of Cognitive Services APIs, including the new Recognize Text API, followed by the Spellcheck API to reduce inaccuracies.
 
 # Inspiration
